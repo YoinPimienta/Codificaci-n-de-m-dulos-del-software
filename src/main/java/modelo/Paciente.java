@@ -1,5 +1,6 @@
 package modelo;
 
+/** Representa los datos basicos de un paciente. */
 public class Paciente {
 
     private int id;
@@ -8,6 +9,12 @@ public class Paciente {
     private String telefono;
 
     public Paciente() {
+    }
+
+    public Paciente(String nombre, String correo, String telefono) {
+        this.nombre = nombre;
+        this.correo = correo;
+        this.telefono = telefono;
     }
 
     public Paciente(int id, String nombre, String correo, String telefono) {

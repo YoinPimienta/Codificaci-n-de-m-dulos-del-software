@@ -1,0 +1,11 @@
+# Configuracion local con credenciales (no subir a GitHub)
+config/db.properties
+
+# Archivos generados por Maven / IDE
+target/
+*.class
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

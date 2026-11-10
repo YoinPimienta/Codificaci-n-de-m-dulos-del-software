@@ -1,0 +1,4 @@
+Repositorio publico de GitHub:
+https://github.com/YoinPimienta/Codificaci-n-de-m-dulos-del-software
+
+El codigo fuente se encuentra en src/main/java, organizado por paquetes.

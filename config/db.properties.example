@@ -1,0 +1,4 @@
+# Copie este archivo como db.properties y complete la contrasena local.
+db.url=jdbc:mysql://localhost:3306/sicaps?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+db.user=root
+db.password=CAMBIAR_POR_LA_CLAVE_LOCAL
